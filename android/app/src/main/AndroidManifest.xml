@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="screen_color_changer"
+        android:label="Chroma Tap"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

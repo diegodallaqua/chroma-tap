@@ -1,4 +1,4 @@
-package com.example.screen_color_changer
+package com.example.ChromaTap
 
 import io.flutter.embedding.android.FlutterActivity
 

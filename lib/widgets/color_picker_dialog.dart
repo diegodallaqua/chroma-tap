@@ -97,7 +97,7 @@ Future<void> showCustomColorPicker({
             child: const Text(
               'Cancel',
               style: TextStyle(
-                color: Colors.black,
+                color: Color(0xFFD84315),
               ),
             ),
           )
